@@ -125,7 +125,7 @@
 				TargetAttributes = {
 					AF68C1811D875D1300F42FC1 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = KRY6CYGL84;
+						DevelopmentTeam = 8NDM2JAGC4;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -293,10 +293,10 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = KRY6CYGL84;
+				DEVELOPMENT_TEAM = 8NDM2JAGC4;
 				INFOPLIST_FILE = NotificationsUI/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.pranjalsatija.NotificationsUI;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pranjalsatija.notiUI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -307,10 +307,10 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = KRY6CYGL84;
+				DEVELOPMENT_TEAM = 8NDM2JAGC4;
 				INFOPLIST_FILE = NotificationsUI/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.pranjalsatija.NotificationsUI;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pranjalsatija.notiUI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};

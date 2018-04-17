@@ -72,7 +72,7 @@ class ViewController: UIViewController {
     picker.allowsEditing = false
 
     if UIImagePickerController.isSourceTypeAvailable(.camera) {
-      picker.sourceType = UIImagePickerControllerSourceType.camera
+      picker.sourceType = UIImagePickerControllerSourceType.photoLibrary
     } else {
       picker.sourceType = .photoLibrary
       picker.modalPresentationStyle = .fullScreen
